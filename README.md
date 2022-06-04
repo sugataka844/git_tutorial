@@ -1,3 +1,3 @@
-#git_tutorial
-hogehoge
+#git_tuto
+fugefuge
 ステージの変更取り消しを確認
